@@ -7,7 +7,7 @@
   - 킥 오프 (책 인증)
 
 
-[### 5/10] (https://github.com/Yunj8649/day1co-dev-book/blob/main/day1.md)
+[### 5/10][https://github.com/Yunj8649/day1co-dev-book/blob/main/day1.md]
 1장 타입스크립트 알아보기
   - 아이템 1 타입스크립트와 자바스크립트의 관계 이해하기
   - 아이템 2 타입스크립트 설정 이해하기
