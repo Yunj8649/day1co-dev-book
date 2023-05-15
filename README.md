@@ -2,6 +2,7 @@
 데개북 TIL 작성을 위한 레포입니다
 
 [day1]: https://github.com/Yunj8649/day1co-dev-book/blob/main/day1.md
+[day2]: https://github.com/Yunj8649/day1co-dev-book/blob/main/day2.md
 ## 진행 일정
 
 ### 5/8
@@ -15,7 +16,7 @@
   - 아이템 3 코드 생성과 타입이 관계없음을 이해하기
 
 
-### 5/12
+### [5/12][day2]
   - 아이템 4 구조적 타이핑에 익숙해지기
   - 아이템 5 any 타입 지양하기
 
